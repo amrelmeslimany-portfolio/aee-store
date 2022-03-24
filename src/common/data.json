@@ -1,0 +1,29 @@
+
+    {
+        "courses": [
+            {
+                "id": 1,
+                "course_img": "https://img-b.udemycdn.com/course/100x100/1329100_571a.jpg",
+                "course_title": "Progressive Web Apps (PWA) - The Complete Guide",
+                "course_tags": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+                "course_price": "E£249.99",
+                "list": "favorite"
+            },
+            {
+                "id": 2,
+                "course_img": "https://img-c.udemycdn.com/course/240x135/2365628_0b60_9.jpg",
+                "course_title": "Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)",
+                "course_tags": "Andrei Neagoie, Yihua Zhang, Zero To Mastery",
+                "course_price": "E£1,499.99",
+                "list":"favorite"
+            },
+            {
+                "id": 3,
+                "course_img": "https://img-c.udemycdn.com/course/240x135/2018828_41a9_3.jpg",
+                "course_title": "React Tutorial and Projects Course",
+                "course_tags": "John Smilga",
+                "course_price": "E£229.99",
+                "list":"cart"
+            }
+        ]
+    }
